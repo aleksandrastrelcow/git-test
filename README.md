@@ -2,3 +2,4 @@
 to jest teskt pliku
 1. pierwszy punkt
 2. drugi punkt
+# git-test
